@@ -1,0 +1,110 @@
+
+body {
+    background:linear-gradient(rgb(157, 85, 189), rgb(238, 90, 31));
+}
+
+body table{
+    font-size: 30px;
+    margin: auto;
+    font-family: "Century gothic";
+}
+
+.ancor{
+    color:orange;
+    border: 2px solid orange;
+    text-decoration: none;
+}
+
+.text{
+    color:rgb(0, 89, 255);
+    text-decoration: none;
+}
+
+html h2{
+    color: orange;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Century gothic";
+}
+header{
+    text-align: center;
+}
+
+header h1{
+    color: orange;
+    font-size: 50px;
+    font-family: "Century gothic";
+}
+
+header p{
+    font-size: 50px;
+    color: orange;
+    font-family: "Century gothic";
+}
+
+header img{
+    width: 30%;
+    height: 30%;
+}
+
+main{
+    text-align: center;
+}
+
+main table{
+    background-color: orange;
+    border: 2px solid black;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+.blue{
+    background-color: rgb(97, 184, 255);
+}
+
+.green{
+    background-color: green;
+}
+
+.color{
+    background-color: rgb(243, 201, 122);
+}
+
+main td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+    width: 10%;
+}
+
+footer table{
+    margin: auto;
+}
+
+footer p{ 
+    color: orange;
+    border: 0px;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Century gothic";
+}
+
+footer img{
+    background-color: white;
+    border-radius: 100%;
+    margin-left: 40px;
+
+}
+
+p{
+    color:black;
+    text-align: center;
+}
+
+a{
+    color: orange;
+    border: 0px;
+    font-family: "Century gothic";
+    text-decoration: none;
+
+}
